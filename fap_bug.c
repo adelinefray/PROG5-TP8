@@ -7,6 +7,9 @@ fap creer_fap_vide()
   return NULL;
 }
 
+
+
+
 fap inserer(fap f, int element, int priorite)
 {
   fap nouveau, courant, precedent;
